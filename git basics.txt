@@ -1,0 +1,42 @@
+// Pulls a repository from a remote (a server)
+git clone https://github.com/sjstutsman/github_lesson_1
+
+// Adds all files to staging so they can be committed.
+git add .
+
+// Creates a commit with a message
+git commit -a -m "Commit message"
+
+// Updates all branches with any changes from server
+git pull --all
+
+// Updates particular branch
+git pull <branch_name>
+
+// Pushes changes (commits) to server
+git push <branch_name>
+
+// Creates a new branch
+git branch <new_branch_name>
+
+// Changes which branch is checked out
+git checkout <existing_branch_name>
+
+// Merges branches together
+git merge <branch _name>
+
+
+
+
+
+There are many, many more Git commands. You do not need to know all or even most of them to be competent and comfortable with Git!
+
+
+
+Here are some helpful links to more tutorials and further documentation.
+
+https://www.w3schools.com/git/
+https://docs.github.com/en/get-started/using-git/about-git
+
+This link is official. It's technical and not great for our first look at Git, but keep it bookmarked for later!
+https://git-scm.com/docs/gittutorial
