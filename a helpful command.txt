@@ -1,0 +1,3 @@
+Running this will allow you to use "git lg" -- a very helpful visual representation of the state of your repository.
+
+git config --global alias.lg "log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
