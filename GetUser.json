@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 22,
+    "first_name": "Sam",
+    "last_name": "Stutsman",
+    "last_login": null,
+    "group_id": "1234",
+    "created_at": "2016-08-02T17:11:09+0000",
+    "updated_at": "2022-08-02T17:11:09+0000",
+    "failed_login_message": "Unable to login.",
+    "account_ids": [
+    ],
+    "phone_numbers": {
+      "data": [
+        {
+          "id": 22,
+          "user_id": 22,
+          "phone": "7015550100",
+          "type": "personal",
+          "primary": true,
+          "verified": true,
+          "created_at": "2016-08-02T17:11:09+0000",
+          "updated_at": "2016-08-02T17:11:09+0000"
+        }
+      ]
+    },
+    "email_addresses": {
+      "data": [
+        {
+          "id": 22,
+          "user_id": 22,
+          "email": "sjstutsman@gmail.com",
+          "email_type": "personal",
+          "primary": true,
+          "verified": true,
+          "created_at": "1916-08-02T17:11:09+0000",
+          "updated_at": "1916-08-02T17:11:09+0000"
+        }
+      ]
+    }
+  }
+}
