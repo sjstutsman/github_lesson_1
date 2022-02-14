@@ -29,6 +29,15 @@ git checkout <existing_branch_name>
 git merge <branch _name>
 
 
+// Set your username and email
+git config user.name = sjstutsman
+git config user.email = sjstutsman@gmail.com
+
+// For setting config globally
+git config --global user.name = sjstutsman
+git config --global user.email = sjstutsman@gmail.com
+
+
 
 
 
