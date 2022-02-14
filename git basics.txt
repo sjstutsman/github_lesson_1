@@ -1,6 +1,9 @@
 // Pulls a repository from a remote (a server)
 git clone https://github.com/sjstutsman/github_lesson_1
 
+// Displays info about working directory
+git status
+
 // Adds all files to staging so they can be committed.
 git add .
 
