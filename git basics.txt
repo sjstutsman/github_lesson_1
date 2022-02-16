@@ -39,7 +39,7 @@ git config --global user.email = sjstutsman@gmail.com
 
 
 
-
+// made a change to the file
 
 There are many, many more Git commands. You do not need to know all or even most of them to be competent and comfortable with Git!
 
